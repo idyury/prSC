@@ -1,0 +1,6 @@
+<material>
+	<shader id="softlight"/>
+	<texture channel="0" id="softlight"/>
+	<depth enable="false"/>
+	<blend enable="false" />
+</material>

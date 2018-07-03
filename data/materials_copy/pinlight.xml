@@ -1,0 +1,6 @@
+<material>
+	<shader id="pinlight"/>
+	<texture channel="0" id="pinlight"/>
+	<depth enable="false"/>
+	<blend enable="false" />
+</material>

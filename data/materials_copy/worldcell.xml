@@ -1,0 +1,5 @@
+<material>
+	<shader id="worldcell"/>
+	<texture channel="0" id="worldcell"/>
+</material>
+

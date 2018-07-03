@@ -1,0 +1,5 @@
+<material>
+	<shader id="texture_with_mask"/>
+	<depth enable="true" function="lessequal"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+</material>

@@ -1,0 +1,5 @@
+<material>
+	<shader id="flush_screen"/>
+	<depth enable="false"/>
+	<blend enable="false"/>
+</material>

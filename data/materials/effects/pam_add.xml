@@ -1,0 +1,6 @@
+<material>
+	<shader id="effect"/>
+	<texture channel="0" id="effects/pam"/>
+	<depth enable="true" write="false"/>
+	<blend enable="true" src_function="srcalpha" dst_function="one" />
+</material>

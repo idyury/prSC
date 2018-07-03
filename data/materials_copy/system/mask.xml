@@ -1,0 +1,5 @@
+<material>
+	<shader id="mask"/>
+	<depth enable="true"/>
+	<colorwrite enabler="false" enableg="false" enableb="false" enablea="false"/>
+</material>

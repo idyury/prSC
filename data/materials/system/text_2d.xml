@@ -1,0 +1,5 @@
+<material>
+	<shader id="default_2d_text"/>
+	<depth enable="false"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+</material>

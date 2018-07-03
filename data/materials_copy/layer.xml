@@ -1,0 +1,5 @@
+<material>
+	<shader id="default_2d"/>
+	<depth enable="false"/>
+	<blend enable="false" />
+</material>

@@ -1,0 +1,6 @@
+<material>
+	<shader id="default_spline"/>
+	<texture channel="0" id="@testspline"/>
+	<depth enable="true" function="lessequal"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+</material>

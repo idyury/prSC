@@ -1,0 +1,6 @@
+<material>
+	<shader id="colordodge"/>
+	<texture channel="0" id="test_blue_light"/>
+	<depth enable="false"/>
+	<blend enable="false" />
+</material>

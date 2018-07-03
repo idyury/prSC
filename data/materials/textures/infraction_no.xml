@@ -1,0 +1,6 @@
+<material>
+	<shader id="default_2d_direct"/>
+	<texture channel="0" id="HUD/infraction_no"/>
+	<depth enable="false"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+</material>

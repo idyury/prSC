@@ -1,0 +1,6 @@
+<material>
+	<shader id="selection"/>
+	<priority value="0"/>
+	<depth enable="true" function="equal"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+</material>

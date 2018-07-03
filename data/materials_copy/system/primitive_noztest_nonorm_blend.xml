@@ -1,0 +1,8 @@
+<material>
+	<shader id="primitive_nonorm"/>
+	<depth enable="true" write="false" function="always"/>
+	<priority value="10"/>
+	<blend enable="true" src_function="srcalpha" dst_function="invsrcalpha" />
+	<sort value="default"/>
+</material>
+

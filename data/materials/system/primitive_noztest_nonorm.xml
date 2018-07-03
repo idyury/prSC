@@ -1,0 +1,6 @@
+<material>
+	<shader id="primitive_nonorm"/>
+	<depth enable="true" function="always"/>
+	<priority value="10"/>
+</material>
+

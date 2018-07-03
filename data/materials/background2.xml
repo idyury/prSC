@@ -1,0 +1,6 @@
+<material>
+	<shader id="default_2d"/>
+	<texture channel="0" id="background2"/>
+	<depth enable="false"/>
+	<blend enable="false" />
+</material>
